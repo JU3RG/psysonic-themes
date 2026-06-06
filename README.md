@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="img/themeslogo.png" alt="Psysonic Themes" width="460">
 </p>
 
