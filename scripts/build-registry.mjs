@@ -28,6 +28,10 @@ function build() {
       const manifestPath = join(themesDir, id, 'manifest.json');
       if (!existsSync(manifestPath)) continue;
       const m = JSON.parse(readFileSync(manifestPath, 'utf8'));
+      // A theme animates if its CSS defines @keyframes — the app flags these on
+      // setups where animation is costly (Nvidia/Linux, compositing off).
+      const cssPath = join(themesDir, id, 'theme.css');
+      const animated = existsSync(cssPath) && /@(?:-[a-z]+-)?keyframes\b/i.test(readFileSync(cssPath, 'utf8'));
       themes.push({
         id: m.id,
         name: m.name,
@@ -37,6 +41,7 @@ function build() {
         mode: m.mode,
         ...(m.tags ? { tags: m.tags } : {}),
         ...(m.minAppVersion ? { minAppVersion: m.minAppVersion } : {}),
+        ...(animated ? { animated: true } : {}),
         css: `themes/${id}/theme.css`,
         thumbnail: `themes/${id}/thumbnail.webp`,
       });
