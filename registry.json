@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-14T01:07:11.601Z",
+  "generatedAt": "2026-06-14T01:39:49.074Z",
   "themes": [
     {
       "id": "aero-glass",
@@ -486,7 +486,28 @@
       "animated": true,
       "css": "themes/hifi-73/theme.css",
       "thumbnail": "themes/hifi-73/thumbnail.webp",
-      "updatedAt": "2026-06-13T12:46:01-07:00"
+      "updatedAt": "2026-06-14T01:07:11Z"
+    },
+    {
+      "id": "hifi-73-noir",
+      "name": "Hi-Fi 73 Noir",
+      "author": "1U3R6",
+      "version": "1.0.0",
+      "description": "Inspired by the stereo receivers of the golden era of Hi-Fi. Dark companion to Hi-Fi 73.",
+      "mode": "dark",
+      "tags": [
+        "vintage",
+        "hifi",
+        "dark",
+        "black",
+        "blue",
+        "walnut",
+        "analog"
+      ],
+      "animated": true,
+      "css": "themes/hifi-73-noir/theme.css",
+      "thumbnail": "themes/hifi-73-noir/thumbnail.webp",
+      "updatedAt": "2026-06-14T03:31:57+02:00"
     },
     {
       "id": "hill-valley-85",
