@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-14T03:32:22.452Z",
+  "generatedAt": "2026-06-14T03:40:12.134Z",
   "themes": [
     {
       "id": "aero-glass",
@@ -901,7 +901,7 @@
       ],
       "css": "themes/oceanic-next/theme.css",
       "thumbnail": "themes/oceanic-next/thumbnail.webp",
-      "updatedAt": "2026-06-14T05:31:56+02:00"
+      "updatedAt": "2026-06-14T03:32:22Z"
     },
     {
       "id": "one-dark",
@@ -1075,6 +1075,25 @@
       "css": "themes/tetrastack/theme.css",
       "thumbnail": "themes/tetrastack/thumbnail.webp",
       "updatedAt": "2026-06-07T19:05:13+02:00"
+    },
+    {
+      "id": "tomorrow-night-blue",
+      "name": "Tomorrow Night Blue",
+      "author": "Psychotoxical",
+      "version": "1.0.0",
+      "description": "Dark theme based on Tomorrow Night Blue by Chris Kempson (MIT) — deep navy background with soft pastel red, yellow, green and blue accents.",
+      "mode": "dark",
+      "tags": [
+        "dark",
+        "blue",
+        "navy",
+        "pastel",
+        "tomorrow",
+        "editor"
+      ],
+      "css": "themes/tomorrow-night-blue/theme.css",
+      "thumbnail": "themes/tomorrow-night-blue/thumbnail.webp",
+      "updatedAt": "2026-06-14T05:39:56+02:00"
     },
     {
       "id": "toy-tale",
