@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-14T01:39:49.074Z",
+  "generatedAt": "2026-06-14T03:14:57.900Z",
   "themes": [
     {
       "id": "aero-glass",
@@ -321,6 +321,27 @@
       "updatedAt": "2026-06-07T19:05:13+02:00"
     },
     {
+      "id": "eternia",
+      "name": "Eternia",
+      "author": "Psychotoxical",
+      "version": "1.0.0",
+      "description": "Light chrome theme in silver, steel-blue and power-red, inspired by the 1980s Masters of the Universe logo. Headings use the Macondo font by John Vargas Beltran (SIL OFL).",
+      "mode": "light",
+      "tags": [
+        "light",
+        "silver",
+        "steel-blue",
+        "red",
+        "chrome",
+        "retro",
+        "cartoon"
+      ],
+      "animated": true,
+      "css": "themes/eternia/theme.css",
+      "thumbnail": "themes/eternia/thumbnail.webp",
+      "updatedAt": "2026-06-14T05:14:37+02:00"
+    },
+    {
       "id": "frappe",
       "name": "Catppuccin Frappé",
       "author": "Psysonic",
@@ -507,7 +528,7 @@
       "animated": true,
       "css": "themes/hifi-73-noir/theme.css",
       "thumbnail": "themes/hifi-73-noir/thumbnail.webp",
-      "updatedAt": "2026-06-14T03:31:57+02:00"
+      "updatedAt": "2026-06-14T01:39:49Z"
     },
     {
       "id": "hill-valley-85",
