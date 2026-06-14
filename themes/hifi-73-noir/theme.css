@@ -231,7 +231,7 @@
 
 /* ============================================================
    CONTENT HEADER
-   Top bar — continues the dark faceplate surface.
+   Top bar
    ============================================================ */
 
 [data-theme='hifi-73-noir'] .content-header {
@@ -286,9 +286,7 @@
 
 /* ============================================================
    QUEUE PANEL
-   Right panel — dark faceplate. On the noir version the player
-   bar and queue now-playing section blend into the face, so
-   the walnut seam becomes the primary divider.
+   Right panel — dark faceplate.
    ============================================================ */
 
 
@@ -296,6 +294,12 @@
 [data-theme='hifi-73-noir'] .queue-header {
   background: linear-gradient(45deg, #141518 0%, #1e2024 100%);
   border-bottom: 1px solid #ababab;
+  border-image: linear-gradient(
+    90deg,
+    #ababab 0%,
+    #2e2e33 100%
+  ) 1;
+  
 }
 
 /* Queue panel body */
@@ -427,9 +431,6 @@
 
 /* ============================================================
    PLAYER BAR — BLACK DIAL
-   On the noir version the player bar blends into the dark face
-   so the walnut top border is the only physical seam. The blue
-   glows read more intensely against the deep black.
    ============================================================ */
 
 [data-theme='hifi-73-noir'] .player-bar {
@@ -487,12 +488,6 @@
     0 0 16px #000F32;
 }
 
-/* Waveform */
-/*[data-theme='hifi-73-noir'] .waveform-seek-container canvas {
-  filter:
-    drop-shadow(0 0 3px rgba(56, 169, 255, 0.70))
-    drop-shadow(0 0 7px rgba(0, 105, 209, 0.40));
-}*/
 
 /* Transport icons */
 [data-theme='hifi-73-noir'] .player-btn:not(.player-btn-primary) svg {
