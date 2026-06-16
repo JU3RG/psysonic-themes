@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-16T11:23:41.862Z",
+  "generatedAt": "2026-06-16T16:55:17.135Z",
   "themes": [
     {
       "id": "aero-glass",
@@ -183,7 +183,7 @@
       "id": "dark-side-of-the-moon",
       "name": "Dark Side of the Moon (inspired)",
       "author": "Psysonic",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "Inspired by Pink Floyd's Dark Side of the Moon. Pure void black with a prism-spectrum rainbow accent.",
       "mode": "dark",
       "tags": [
@@ -196,7 +196,7 @@
       ],
       "css": "themes/dark-side-of-the-moon/theme.css",
       "thumbnail": "themes/dark-side-of-the-moon/thumbnail.webp",
-      "updatedAt": "2026-06-15T23:56:47+02:00"
+      "updatedAt": "2026-06-16T18:53:52+02:00"
     },
     {
       "id": "dawnfox",
