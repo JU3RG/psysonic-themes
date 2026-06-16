@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-16T16:55:17.135Z",
+  "generatedAt": "2026-06-16T18:14:06.442Z",
   "themes": [
     {
       "id": "aero-glass",
@@ -68,6 +68,26 @@
       "css": "themes/blade/theme.css",
       "thumbnail": "themes/blade/thumbnail.webp",
       "updatedAt": "2026-06-07T19:05:13+02:00"
+    },
+    {
+      "id": "borealis",
+      "name": "Borealis",
+      "author": "Psysonic",
+      "version": "1.0.0",
+      "description": "Mid-tone slate-blue with animated aurora ribbons drifting across the player bar and sidebar. Not quite dark, not quite light.",
+      "mode": "dark",
+      "tags": [
+        "animated",
+        "blue",
+        "teal",
+        "violet",
+        "aurora",
+        "mid-tone"
+      ],
+      "animated": true,
+      "css": "themes/borealis/theme.css",
+      "thumbnail": "themes/borealis/thumbnail.webp",
+      "updatedAt": "2026-06-16T20:05:38+02:00"
     },
     {
       "id": "braindead",
@@ -196,7 +216,7 @@
       ],
       "css": "themes/dark-side-of-the-moon/theme.css",
       "thumbnail": "themes/dark-side-of-the-moon/thumbnail.webp",
-      "updatedAt": "2026-06-16T18:53:52+02:00"
+      "updatedAt": "2026-06-16T16:55:17Z"
     },
     {
       "id": "dawnfox",
