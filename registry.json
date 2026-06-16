@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-16T18:14:06.442Z",
+  "generatedAt": "2026-06-16T18:20:07.243Z",
   "themes": [
     {
       "id": "aero-glass",
@@ -87,7 +87,26 @@
       "animated": true,
       "css": "themes/borealis/theme.css",
       "thumbnail": "themes/borealis/thumbnail.webp",
-      "updatedAt": "2026-06-16T20:05:38+02:00"
+      "updatedAt": "2026-06-16T18:14:06Z"
+    },
+    {
+      "id": "borealis-lite",
+      "name": "Borealis Lite",
+      "author": "Psysonic",
+      "version": "1.0.0",
+      "description": "The Borealis palette as a lightweight, token-only theme — same mid-tone aurora colours (plum, teal, violet), no animations or effects.",
+      "mode": "dark",
+      "tags": [
+        "mid-tone",
+        "teal",
+        "violet",
+        "plum",
+        "minimal",
+        "aurora"
+      ],
+      "css": "themes/borealis-lite/theme.css",
+      "thumbnail": "themes/borealis-lite/thumbnail.webp",
+      "updatedAt": "2026-06-16T20:18:31+02:00"
     },
     {
       "id": "braindead",
