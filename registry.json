@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-16T23:47:47.141Z",
+  "generatedAt": "2026-06-17T09:34:45.261Z",
   "themes": [
     {
       "id": "aero-glass",
@@ -777,23 +777,23 @@
       "id": "monolith-dark",
       "name": "Monolith-dark",
       "author": "Asra",
-      "version": "1.1.6",
+      "version": "1.1.7",
       "description": "Monochrome charcoal and white neumorphic theme with circular record player esque album grid patches.",
       "mode": "dark",
       "css": "themes/monolith-dark/theme.css",
       "thumbnail": "themes/monolith-dark/thumbnail.webp",
-      "updatedAt": "2026-06-14T21:57:53Z"
+      "updatedAt": "2026-06-17T11:34:26+02:00"
     },
     {
       "id": "monolith-light",
       "name": "Monolith-light",
       "author": "Asra",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Monochrome white and charcoal neumorphic theme with circular record player esque album grid patches.",
       "mode": "light",
       "css": "themes/monolith-light/theme.css",
       "thumbnail": "themes/monolith-light/thumbnail.webp",
-      "updatedAt": "2026-06-14T21:57:53Z"
+      "updatedAt": "2026-06-17T11:34:26+02:00"
     },
     {
       "id": "morpheus",
