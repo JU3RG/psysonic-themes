@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T11:53:29.616Z",
+  "generatedAt": "2026-07-06T19:08:15.208Z",
   "themes": [
     {
       "id": "aero-glass",
@@ -726,10 +726,13 @@
       "id": "hollow-ember",
       "name": "Hollow Ember",
       "author": "Asra",
-      "version": "1.3.5",
+      "version": "1.3.6",
       "description": "Warm ember and ash neumorphic theme. Deep near-black base with smouldering orange accent. inspired by Bad Omens – THE DEATH OF PEACE OF MIND",
       "mode": "dark",
       "changelog": {
+        "1.3.6": [
+          "made volume slider more visible by making it brighter"
+        ],
         "1.3.4": [
           "Fix: allow album-card box-shadow glow to render above album cards (overflow: visible).",
           "Add breathing room for first row of album cards.",
@@ -738,7 +741,7 @@
       },
       "css": "themes/hollow-ember/theme.css",
       "thumbnail": "themes/hollow-ember/thumbnail.webp",
-      "updatedAt": "2026-07-06T13:53:14+02:00"
+      "updatedAt": "2026-07-06T21:07:58+02:00"
     },
     {
       "id": "horde",
@@ -962,10 +965,13 @@
       "id": "monolith-dark",
       "name": "Monolith-dark",
       "author": "Asra",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Monochrome charcoal and white neumorphic theme with circular record player esque album grid patches.",
       "mode": "dark",
       "changelog": {
+        "1.2.1": [
+          "made volume slider more visible by making it slightly brighter"
+        ],
         "1.2.0": [
           "New: player-bar glow when playing (player-bar + ::before glow + accent text shadow for playing track).",
           "Fix: allow album-card box-shadow glow to render above album cards (overflow: visible).",
@@ -974,7 +980,7 @@
       },
       "css": "themes/monolith-dark/theme.css",
       "thumbnail": "themes/monolith-dark/thumbnail.webp",
-      "updatedAt": "2026-07-06T13:53:14+02:00"
+      "updatedAt": "2026-07-06T21:07:58+02:00"
     },
     {
       "id": "monolith-light",
