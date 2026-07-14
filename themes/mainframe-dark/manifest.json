@@ -1,8 +1,13 @@
 {
   "id": "mainframe-dark",
   "name": "Mainframe Dark",
-  "author": "Asra",
-  "version": "1.0.1",
+  "author": "ImAsra",
+  "version": "1.0.2",
   "description": "Cold steel terminal aesthetic with animated PCB circuit sidebar. Deep dark backgrounds, Breeze-style titlebar buttons.",
-  "mode": "dark"
+  "mode": "dark",
+  "changelog": {
+    "1.0.2": [
+      "Fix: corrected the author credit to ImAsra. No visual change."
+    ]
+  }
 }
