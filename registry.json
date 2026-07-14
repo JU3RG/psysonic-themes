@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T16:10:12.380Z",
+  "generatedAt": "2026-07-14T16:12:04.785Z",
   "themes": [
     {
       "id": "aero-glass",
@@ -438,7 +438,7 @@
       },
       "css": "themes/feywild/theme.css",
       "thumbnail": "themes/feywild/thumbnail.webp",
-      "updatedAt": "2026-07-14T18:07:00+02:00"
+      "updatedAt": "2026-07-14T18:11:44+02:00"
     },
     {
       "id": "frappe",
@@ -475,7 +475,7 @@
       },
       "css": "themes/graceful-ember/theme.css",
       "thumbnail": "themes/graceful-ember/thumbnail.webp",
-      "updatedAt": "2026-07-14T18:07:00+02:00"
+      "updatedAt": "2026-07-14T18:11:44+02:00"
     },
     {
       "id": "grand-theft-audio",
@@ -750,7 +750,7 @@
       },
       "css": "themes/hollow-ember/theme.css",
       "thumbnail": "themes/hollow-ember/thumbnail.webp",
-      "updatedAt": "2026-07-14T18:07:00+02:00"
+      "updatedAt": "2026-07-14T18:11:44+02:00"
     },
     {
       "id": "horde",
@@ -871,7 +871,7 @@
       },
       "css": "themes/latte-reserve/theme.css",
       "thumbnail": "themes/latte-reserve/thumbnail.webp",
-      "updatedAt": "2026-07-14T18:07:00+02:00"
+      "updatedAt": "2026-07-14T18:11:44+02:00"
     },
     {
       "id": "london-79",
@@ -935,7 +935,7 @@
       "animated": true,
       "css": "themes/mainframe-dark/theme.css",
       "thumbnail": "themes/mainframe-dark/thumbnail.webp",
-      "updatedAt": "2026-07-14T18:06:50+02:00"
+      "updatedAt": "2026-07-14T18:11:44+02:00"
     },
     {
       "id": "mainframe-light",
@@ -952,7 +952,7 @@
       "animated": true,
       "css": "themes/mainframe-light/theme.css",
       "thumbnail": "themes/mainframe-light/thumbnail.webp",
-      "updatedAt": "2026-07-14T18:06:50+02:00"
+      "updatedAt": "2026-07-14T18:11:44+02:00"
     },
     {
       "id": "midnight-blue",
@@ -984,7 +984,7 @@
       },
       "css": "themes/mocha-reserve/theme.css",
       "thumbnail": "themes/mocha-reserve/thumbnail.webp",
-      "updatedAt": "2026-07-14T18:07:00+02:00"
+      "updatedAt": "2026-07-14T18:11:44+02:00"
     },
     {
       "id": "monolith-dark",
@@ -1008,7 +1008,7 @@
       },
       "css": "themes/monolith-dark/theme.css",
       "thumbnail": "themes/monolith-dark/thumbnail.webp",
-      "updatedAt": "2026-07-14T18:07:00+02:00"
+      "updatedAt": "2026-07-14T18:11:44+02:00"
     },
     {
       "id": "monolith-light",
@@ -1029,7 +1029,7 @@
       },
       "css": "themes/monolith-light/theme.css",
       "thumbnail": "themes/monolith-light/thumbnail.webp",
-      "updatedAt": "2026-07-14T18:07:00+02:00"
+      "updatedAt": "2026-07-14T18:11:44+02:00"
     },
     {
       "id": "morpheus",
